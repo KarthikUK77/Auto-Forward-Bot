@@ -7,6 +7,7 @@
         "auto",
         "forward"
     ],
+    "logo": "https://telegra.ph/file/0cc81f5c4df05837d8b05.jpg",
     "success_url": "https://telegram.dog/Autoforward_Nsbot",
     "repository": "https://github.com/Ns-AnoNymouS/Auto-Forward-Bot",
     "env": {
